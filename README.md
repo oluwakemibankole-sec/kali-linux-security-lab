@@ -38,3 +38,32 @@ The goal of this project is to simulate real-world vulnerability assessment and 
 ## Author
 **Oluwakemi Bankole**  
 Cybersecurity Analyst | Pentesting Trainee
+
+# Kali Linux Home Lab | Network Reconnaissance & Exploitation
+
+![Nmap Scan Results](./images/nmap-scan.png)
+
+> Hands-on cybersecurity lab demonstrating reconnaissance, service enumeration, exploitation, and web application testing in a controlled Kali Linux environment.
+
+---
+
+## Project Overview
+This repository documents a full cybersecurity home lab workflow from network discovery to exploitation and post-exploitation.
+
+### Skills Demonstrated
+- Network scanning
+- Port enumeration
+- Service identification
+- Vulnerability discovery
+- Metasploit exploitation
+- DVWA testing
+- Command injection
+- File upload web shell
+- Documentation and reporting
+
+### Tools Used
+- Kali Linux
+- Nmap
+- Metasploit Framework
+- DVWA
+- Linux CLI
